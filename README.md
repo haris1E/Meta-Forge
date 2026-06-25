@@ -6,7 +6,7 @@ Meta-Forge is a powerful, cloud-based SEO meta tag generator that leverages Clau
 
 ## Features
 
-🎯 **AI-Powered Generation**
+🧠 **AI-Powered Generation**
 - Uses Claude AI for intelligent meta tag creation
 - Analyzes content and generates contextually relevant metadata
 - Supports multiple content types and industries
